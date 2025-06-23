@@ -110,6 +110,7 @@ I regularly build and test small projects with **news APIs**, **OpenAI**, and **
 [![🌍 Portfolio](https://img.shields.io/badge/Website-marcosastudillo.com-blueviolet?style=for-the-badge&logo=google-chrome)](https://www.marcosastudillo.com)
 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Astudillo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marcos-antonio-astudillo-carrasco)
 [![🐱 GitHub](https://img.shields.io/badge/GitHub-ThisIsAntonio-181717?style=for-the-badge&logo=github)](https://github.com/ThisIsAntonio)
+[![🌎 Vanhack](https://img.shields.io/badge/Vanhack-Marcos%20Astudillo-orange?style=for-the-badge&logo=Vercel)](https://vanhack.com/vanhacker/b1b0dc1c-92a8-4687-8e3b-92da789a728c)
 
 ---
 
